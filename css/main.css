@@ -1,0 +1,32 @@
+body{
+  background-color: #092B40;
+  alignment: center;
+}
+
+h1{
+  text-align: center;
+}
+
+#wiki{
+  text-align: center;
+}
+
+.container{
+  color: white;
+}
+
+#output{
+  color: brown;
+  padding: 40px 30px 40px 30px;
+  margin: auto;
+}
+
+#search{
+}
+
+#searchTerm{
+  padding: 0px 100px 0px 0px;
+  margin-left: 395px;
+ 
+  
+}
